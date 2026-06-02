@@ -220,6 +220,7 @@
                 border-bottom: none;
             }
         </style>
+        <script defer src="https://cloud.umami.is/script.js" data-website-id="bc6e9193-2734-402d-8d8f-b336a22b0d8c"></script>
     </head>
     <body>
 
@@ -227,9 +228,9 @@
             
             <div class="switcher-wrapper">
                 <select id="language-switcher">
-                    <option value="en">English</option>
-                    <option value="ar">العربية</option>
-                    <option value="fr">Français</option>
+                    <option value="en" data-umami-event="language" data-umami-value="English">English</option>
+                    <option value="ar" data-umami-event="language" data-umami-value="العربية">العربية</option>
+                    <option value="fr" data-umami-event="language" data-umami-value="Français">Français</option>
                 </select>
             </div>
 
@@ -240,7 +241,7 @@
                     <li data-translate="requirement2"></li>
                     <li data-translate="requirement3"></li>
                 </ul>
-                <div class="checkbox-container">
+                <div class="checkbox-container" data-umami-event="agree">
                     <input type="checkbox" id="agree">
                     <label for="agree" data-translate="agreeText"></label>
                 </div>
@@ -256,7 +257,7 @@
                 <div class="content-wrapper" style="margin-top: 20px;">
                     <p><span data-translate="text6"></span></p>
                     <div id="numbers" style="margin-top: 15px;">
-                        <button id="reveal-btn" data-translate="revealButton" disabled></button>
+                        <button id="reveal-btn" data-translate="revealButton" data-umami-event="reveal-numbers" disabled></button>
                         <div id="hidding-content" class="box-wrapper">
                             <span class="box">1</span><span class="box">4</span><span class="box">7</span><span class="box">10</span><span class="box">13</span>
                         </div>
@@ -276,7 +277,7 @@
                     <p data-translate="step7"></p>
                     <p data-translate="step8"></p>
                 </div>
-                <button id="reveal-secret-btn" data-translate="revealSecretButton"></button>
+                <button id="reveal-secret-btn" data-translate="revealSecretButton" data-umami-event="reveal-secret-instruction"></button>
             </div>
 
         </div>
