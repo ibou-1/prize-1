@@ -22,7 +22,7 @@
         "step5": "5) Go to your profile page.",
         "step6": "6) Append \" / 1$ Winner\" to your profile name (e.g., John Doe / 1$ Winner).",
         "step7": "7) Check off that habit for 7 consecutive days.",
-        "step8": "8) CRITICAL STEP: After 7 days, DM me on Instagram with this mandatory verification: your Gmail address, your profile name, and the secret instruction phrase unlocked below.",
+        "step8": "8) CRITICAL STEP: After 7 days, DM me on Instagram with this mandatory verification: your Gmail address, your profile name, and the secret instruction unlocked below.",
         "revealSecretButton": "Unlock the Mandatory Hidden Instruction",
         "secretInstructionText": "REQUIRED DM PHRASE: 'The hidden instruction is: what is the pattern between the revealed numbers?'"
     },
@@ -49,7 +49,7 @@
         "step5": "5) Allez sur votre page de profil.",
         "step6": "6) Ajoutez ceci à votre nom de profil : \" / 1$ Winner\" (ex: John Doe / 1$ Winner).",
         "step7": "7) Cochez cette habitude pendant 7 jours consécutifs.",
-        "step8": "8) ÉTAPE CRITIQUE : Après 7 jours, envoyez-moi un message privé sur Instagram avec cette vérification obligatoire : votre adresse Gmail, votre nom de profil, et la phrase d'instruction secrète débloquée ci-dessous.",
+        "step8": "8) ÉTAPE CRITIQUE : Après 7 jours, envoyez-moi un message privé sur Instagram avec cette vérification obligatoire : votre adresse Gmail, votre nom de profil, et l'instruction secrète débloquée ci-dessous.",
         "revealSecretButton": "Débloquer l'instruction cachée obligatoire",
         "secretInstructionText": "PHRASE OBLIGATOIRE À ENVOYER : 'L'instruction cachée est : quel est le modèle entre les nombres révélés ?'"
     },
@@ -76,7 +76,7 @@
         "step5": "5) انتقل إلى صفحة ملفك الشخصي.",
         "step6": "6) أضف إلى اسم ملفك الشخصي العبارة التالية: \" / 1$ Winner\" (مثال: John Doe / 1$ Winner).",
         "step7": "7) قم بتأكيد وإتمام هذه العادة لمدة 7 أيام متتالية.",
-        "step8": "8) خطوة مهمة جداً: بعد مرور 7 أيام، أرسل لي رسالة خاصة على إنستغرام تحتوي على معلومات التحقق الإلزامية التالية: بريدك الإلكتروني، اسم ملفك الشخصي، والعبارة السرية المخفية التي تظهر بالأسفل.",
+        "step8": "8) خطوة مهمة جداً: بعد مرور 7 أيام، أرسل لي رسالة خاصة على إنستغرام تحتوي على معلومات التحقق الإلزامية التالية: بريدك الإلكتروني، اسم ملفك الشخصي، و المطلوب من العبارة السرية المخفية التي تظهر بالأسفل.",
         "revealSecretButton": "الكشف عن التعليمات المخفية الإلزامية",
         "secretInstructionText": "العبارة الإلزامية المطلوبة في الرسالة: 'التعليمة المخفية هي: ما هو النمط الرياضي المشترك بين الأرقام المكشوفة؟'"
     }
